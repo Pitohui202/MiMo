@@ -1,0 +1,24 @@
+Tue May 14 16:57:05 2024
+WARNING: Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 0.7200.
+
+Tue May 14 16:57:05 2024
+WARNING: Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 0.7150.
+
+Tue May 14 16:57:06 2024
+WARNING: Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 0.7300.
+
+Tue May 14 16:57:07 2024
+WARNING: Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 0.7200.
+
+Tue May 14 16:57:07 2024
+WARNING: Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 0.7350.
+
+Tue May 14 16:57:10 2024
+WARNING: Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 0.7300.
+
+Tue May 14 16:57:22 2024
+WARNING: Nan, Inf or huge value in QACC at DOF 1. The simulation is unstable. Time = 0.7150.
+
+Thu Jul 25 22:52:10 2024
+WARNING: mju_openResource: unknown file 'mimoEnv/assets/locomotion_scene.xm'
+
